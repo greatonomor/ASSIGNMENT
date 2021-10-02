@@ -1,0 +1,62 @@
+   .pad {
+       width: 100%;
+       margin: 0px;
+       padding-left: 0px;
+       padding-right: 0px;
+   }
+   
+   .heading {
+       height: 70px;
+       top: 50%;
+       left: 50%;
+       margin-top: -100px;
+       margin-left: -200px
+   }
+   
+   .bodya {
+       height: 100px;
+       font-size: large;
+       font-weight: 500;
+   }
+   
+   .backg {
+       background-image: url('ravenbird.jpg');
+       background-repeat: no-repeat;
+       background-size: 100% 100%;
+       background-position: center;
+   }
+   
+   .rotate {
+       background-color: transparent;
+       outline: 2px dashed;
+       transform: rotate(-45deg);
+   }
+   
+   .H {
+       font-family: Arial, Helvetica, sans-serif;
+       font-weight: bold;
+       font-size: x-large;
+   }
+   
+   .p {
+       font-family: Arial;
+       font-weight: bold;
+   }
+   
+   .M {
+       font-size: large;
+       font-weight: 400;
+   }
+   
+   .Lastp {
+       font-size: 11pt;
+       line-height: 30px;
+       font-weight: 500;
+   }
+   
+   .rounded-circle {
+       border-radius: 50%;
+       border-style: solid;
+       border-color: rgb(180, 206, 206);
+       border-width: 7px;
+   }
